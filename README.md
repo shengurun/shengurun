@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi! I'm shengurun.
+
+- I'm currently learning **game design** and **photography**.
+- Among all programming language, I'm interested in **Python**, **Golang** and **Rust**.
+
+---
+
+Summer is a time to relax, regroup and catch up on all those things you've been putting off all year. Now, my short-term goal is already planned.
+
+**August 25, 2021. I'm back!**
+
 
 <!--
 **shengurun/shengurun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
