@@ -7,7 +7,7 @@
 
 Summer is a time to relax, regroup and catch up on all those things you've been putting off all year. Now, my short-term goal is already planned.
 
-**August 25, 2021. I'm back!**
+**I'm back!**
 
 
 <!--
